@@ -1,0 +1,11 @@
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\bin\Debug\netcoreapp2.1\GenericQueueImplementation.deps.json
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\bin\Debug\netcoreapp2.1\GenericQueueImplementation.runtimeconfig.json
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\bin\Debug\netcoreapp2.1\GenericQueueImplementation.runtimeconfig.dev.json
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\bin\Debug\netcoreapp2.1\GenericQueueImplementation.dll
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\bin\Debug\netcoreapp2.1\GenericQueueImplementation.pdb
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.csprojAssemblyReference.cache
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.csproj.CoreCompileInputs.cache
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.AssemblyInfoInputs.cache
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.AssemblyInfo.cs
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.dll
+C:\Users\Kenneth\source\repos\GenericQueueImplementation\GenericQueueImplementation\obj\Debug\netcoreapp2.1\GenericQueueImplementation.pdb
